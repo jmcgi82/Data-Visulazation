@@ -9,4 +9,5 @@ module usr.mcgill.datavisulazation {
     opens usr.mcgill.datavisualization to javafx.fxml;
     exports usr.mcgill.datavisualization;
     exports usr.mcgill.datavisualization.Piechart;
+    exports usr.mcgill.datavisualization.Linechart;
 }
