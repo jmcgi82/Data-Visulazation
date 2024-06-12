@@ -6,6 +6,7 @@ module usr.mcgill.datavisulazation {
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens usr.mcgill.datavisulazation to javafx.fxml;
-    exports usr.mcgill.datavisulazation;
+    opens usr.mcgill.datavisualization to javafx.fxml;
+    exports usr.mcgill.datavisualization;
+    exports usr.mcgill.datavisualization.Piechart;
 }

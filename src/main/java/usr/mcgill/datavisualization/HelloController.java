@@ -1,4 +1,4 @@
-package usr.mcgill.datavisulazation;
+package usr.mcgill.datavisualization;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

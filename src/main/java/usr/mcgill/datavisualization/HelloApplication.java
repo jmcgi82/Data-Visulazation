@@ -1,4 +1,4 @@
-package usr.mcgill.datavisulazation;
+package usr.mcgill.datavisualization;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
