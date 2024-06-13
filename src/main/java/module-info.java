@@ -12,4 +12,5 @@ module usr.mcgill.datavisulazation {
     exports usr.mcgill.datavisualization.Linechart;
     exports usr.mcgill.datavisualization.Areachart;
     exports usr.mcgill.datavisualization.Bubblechart;
+    exports usr.mcgill.datavisualization.Scatterchart;
 }
